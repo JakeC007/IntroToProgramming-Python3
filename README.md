@@ -9,8 +9,6 @@ This repo contains all of the files that I have created for my intro to coding v
   - ints
   - strs 
   - lists 
-- Scope 
-- Functions
 - Math Operators
 
 
@@ -29,3 +27,10 @@ This repo contains all of the files that I have created for my intro to coding v
   * iterators
   * accumulators 
 * while-loops
+
+
+
+### Unit 4
+
+* Functions
+* Variable Scope 
