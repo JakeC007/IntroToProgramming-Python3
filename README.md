@@ -9,7 +9,9 @@ This repo contains all of the files that I have created for my intro to coding v
   - ints
   - strs 
   - lists 
+- List indexing 
 - Math Operators
+- `Input`
 
 
 
